@@ -1,0 +1,217 @@
+{
+  "gmailUser": "packaged.demo@khushpush.mail",
+  "historyId": "demo-history-001",
+  "resultSizeEstimate": 15,
+  "messages": [
+    {
+      "id": "demo0000000000000001",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743000000000",
+      "labelIds": [
+        "INBOX",
+        "IMPORTANT"
+      ],
+      "snippet": "Dear Student, The Higher Education Commission (HEC) is offering fully funded scholarships for MS and PhD programs. Eligibility Criteria: - Minimum CGPA: 3.0 Req\u2026",
+      "from": "scholarships@hec.gov.pk",
+      "subject": "Fully Funded Scholarship Opportunity - Fall 2026 (Deadline Approaching)",
+      "date": "2026-04-15",
+      "body": "Dear Student,\n\nThe Higher Education Commission (HEC) is offering fully funded scholarships for MS and PhD programs.\n\nEligibility Criteria:\n- Minimum CGPA: 3.0\n\nRequired Documents:\n- Academic transcripts\n- Statement of Purpose\n\nDeadline: April 25, 2026\n\nApply here: https://hec.gov.pk/scholarships"
+    },
+    {
+      "id": "demo0000000000000002",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743086400000",
+      "labelIds": [
+        "INBOX",
+        "IMPORTANT"
+      ],
+      "snippet": "We are hiring Software Engineering Interns. Requirements: - BS CS student Deadline: May 5, 2026 Apply: https://systems.com/careers",
+      "from": "careers@systems.com",
+      "subject": "Summer Internship Program 2026 - Apply Now!",
+      "date": "2026-04-10",
+      "body": "We are hiring Software Engineering Interns.\n\nRequirements:\n- BS CS student\n\nDeadline: May 5, 2026\n\nApply: https://systems.com/careers"
+    },
+    {
+      "id": "demo0000000000000003",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743172800000",
+      "labelIds": [
+        "INBOX",
+        "IMPORTANT"
+      ],
+      "snippet": "Team size: 2-4 Deadline: April 20, 2026 Prize: PKR 300,000 Register: https://softecnu.org",
+      "from": "events@softecnu.org",
+      "subject": "\ud83d\ude80 SOFTEC 2026 AI Hackathon Registration Open",
+      "date": "2026-04-17",
+      "body": "Team size: 2-4\nDeadline: April 20, 2026\nPrize: PKR 300,000\nRegister: https://softecnu.org"
+    },
+    {
+      "id": "demo0000000000000004",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743259200000",
+      "labelIds": [
+        "INBOX",
+        "IMPORTANT"
+      ],
+      "snippet": "Requirements: - Python - ML interest Deadline: April 28, 2026 Send CV to lab@lums.edu.pk",
+      "from": "lab@lums.edu.pk",
+      "subject": "Research Internship in AI Lab - LUMS",
+      "date": "2026-04-12",
+      "body": "Requirements:\n- Python\n- ML interest\n\nDeadline: April 28, 2026\n\nSend CV to lab@lums.edu.pk"
+    },
+    {
+      "id": "demo0000000000000005",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743345600000",
+      "labelIds": [
+        "INBOX",
+        "IMPORTANT"
+      ],
+      "snippet": "Massive discounts on electronics. Shop now!",
+      "from": "promo@shoppingdeals.pk",
+      "subject": "\ud83d\udd25 70% OFF on Electronics - Limited Time Offer!!!",
+      "date": "2026-04-16",
+      "body": "Massive discounts on electronics. Shop now!"
+    },
+    {
+      "id": "demo0000000000000006",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743432000000",
+      "labelIds": [
+        "INBOX",
+        "CATEGORY_UPDATES"
+      ],
+      "snippet": "Order now and get free delivery on your favorite meals.",
+      "from": "no-reply@foodpanda.pk",
+      "subject": "\ud83c\udf54 Your midnight cravings? We got you!",
+      "date": "2026-04-17",
+      "body": "Order now and get free delivery on your favorite meals."
+    },
+    {
+      "id": "demo0000000000000007",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743518400000",
+      "labelIds": [
+        "INBOX",
+        "CATEGORY_UPDATES"
+      ],
+      "snippet": "Do not share this code with anyone.",
+      "from": "alerts@bank.com",
+      "subject": "Your OTP Code is 839201",
+      "date": "2026-04-18",
+      "body": "Do not share this code with anyone."
+    },
+    {
+      "id": "demo0000000000000008",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743604800000",
+      "labelIds": [
+        "INBOX",
+        "CATEGORY_UPDATES"
+      ],
+      "snippet": "Send your CNIC and bank details to start earning instantly.",
+      "from": "opportunities@randomsite.xyz",
+      "subject": "Earn $5000/month working from home!!!",
+      "date": "2026-04-14",
+      "body": "Send your CNIC and bank details to start earning instantly."
+    },
+    {
+      "id": "demo0000000000000009",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743691200000",
+      "labelIds": [
+        "INBOX",
+        "CATEGORY_UPDATES"
+      ],
+      "snippet": "Explore our latest AI courses and boost your career.",
+      "from": "newsletter@coursera.org",
+      "subject": "Top AI Courses You Should Not Miss",
+      "date": "2026-04-13",
+      "body": "Explore our latest AI courses and boost your career."
+    },
+    {
+      "id": "demo0000000000000010",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743777600000",
+      "labelIds": [
+        "INBOX",
+        "CATEGORY_UPDATES"
+      ],
+      "snippet": "Check out the discussion you were tagged in.",
+      "from": "community@github.com",
+      "subject": "You were mentioned in a discussion",
+      "date": "2026-04-14",
+      "body": "Check out the discussion you were tagged in."
+    },
+    {
+      "id": "demo0000000000000011",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743864000000",
+      "labelIds": [
+        "INBOX",
+        "CATEGORY_UPDATES"
+      ],
+      "snippet": "Join our info session this weekend to learn more. Register here: https://gdsc.com",
+      "from": "events@google.com",
+      "subject": "Join Google Developer Student Clubs Info Session",
+      "date": "2026-04-09",
+      "body": "Join our info session this weekend to learn more.\nRegister here: https://gdsc.com"
+    },
+    {
+      "id": "demo0000000000000012",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1743950400000",
+      "labelIds": [
+        "INBOX",
+        "CATEGORY_UPDATES"
+      ],
+      "snippet": "Eligibility: - Good academic record Deadline: May 30, 2026 Apply: https://daad.de",
+      "from": "exchange@daad.de",
+      "subject": "DAAD Exchange Program - Germany",
+      "date": "2026-04-08",
+      "body": "Eligibility:\n- Good academic record\n\nDeadline: May 30, 2026\n\nApply: https://daad.de"
+    },
+    {
+      "id": "demo0000000000000013",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1744036800000",
+      "labelIds": [
+        "INBOX",
+        "CATEGORY_UPDATES"
+      ],
+      "snippet": "Budget: $300 Skills: React, Tailwind Reply with portfolio.",
+      "from": "client@upworkmail.com",
+      "subject": "Looking for React Developer (Short Project)",
+      "date": "2026-04-13",
+      "body": "Budget: $300\nSkills: React, Tailwind\nReply with portfolio."
+    },
+    {
+      "id": "demo0000000000000014",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1744123200000",
+      "labelIds": [
+        "INBOX",
+        "CATEGORY_UPDATES"
+      ],
+      "snippet": "Deadline: July 10, 2026 Apply: https://nu.edu.pk",
+      "from": "admissions@fast.edu.pk",
+      "subject": "FAST NU Admission Fall 2026 - Applications Open",
+      "date": "2026-04-11",
+      "body": "Deadline: July 10, 2026\nApply: https://nu.edu.pk"
+    },
+    {
+      "id": "demo0000000000000015",
+      "threadId": "thr_demo00000000",
+      "internalDate": "1744209600000",
+      "labelIds": [
+        "INBOX",
+        "CATEGORY_UPDATES"
+      ],
+      "snippet": "Check your Fiverr inbox for new opportunities.",
+      "from": "fiverr@updates.com",
+      "subject": "\ud83c\udf89 You have new messages from clients",
+      "date": "2026-04-18",
+      "body": "Check your Fiverr inbox for new opportunities."
+    }
+  ]
+}

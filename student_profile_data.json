@@ -1,0 +1,13 @@
+{
+  "login_id": "demo_student",
+  "degree": "BS Computer Science",
+  "semester": 5,
+  "cgpa": 3.2,
+  "skills": ["Python", "React", "Machine Learning"],
+  "interests": ["Artificial Intelligence", "Web Development"],
+  "preferred_opportunity_types": ["Internship", "Hackathon"],
+  "location_preference": ["Pakistan", "Remote"],
+  "financial_need": "High",
+  "availability": "Summer",
+  "experience_level": "Intermediate"
+}

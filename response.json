@@ -1,0 +1,125 @@
+{
+    "items": [
+      {
+        "email_id": "1",
+        "is_opportunity": true,
+        "opportunity_type": "Scholarship",
+        "relevance_score": 0.8,
+        "profile_fit_label": "strong_match",
+        "rationale": "Eligibility criteria match student's profile"
+      },
+      {
+        "email_id": "2",
+        "is_opportunity": true,
+        "opportunity_type": "Internship",
+        "relevance_score": 0.7,
+        "profile_fit_label": "moderate_match",
+        "rationale": "Student's degree and skills match internship requirements"
+      },
+      {
+        "email_id": "3",
+        "is_opportunity": true,
+        "opportunity_type": "Hackathon",
+        "relevance_score": 0.6,
+        "profile_fit_label": "weak_match",
+        "rationale": "Student's interests match hackathon theme"
+      },
+      {
+        "email_id": "4",
+        "is_opportunity": true,
+        "opportunity_type": "Internship",
+        "relevance_score": 0.9,
+        "profile_fit_label": "strong_match",
+        "rationale": "Student's skills and interests match internship requirements"
+      },
+      {
+        "email_id": "5",
+        "is_opportunity": false,
+        "opportunity_type": "none",
+        "relevance_score": 0,
+        "profile_fit_label": "irrelevant",
+        "rationale": "Promotional email with no relevance to student's profile"
+      },
+      {
+        "email_id": "6",
+        "is_opportunity": false,
+        "opportunity_type": "none",
+        "relevance_score": 0,
+        "profile_fit_label": "irrelevant",
+        "rationale": "Promotional email with no relevance to student's profile"
+      },
+      {
+        "email_id": "7",
+        "is_opportunity": false,
+        "opportunity_type": "none",
+        "relevance_score": 0,
+        "profile_fit_label": "irrelevant",
+        "rationale": "OTP security email with no relevance to student's profile"
+      },
+      {
+        "email_id": "8",
+        "is_opportunity": false,
+        "opportunity_type": "none",
+        "relevance_score": 0,
+        "profile_fit_label": "irrelevant",
+        "rationale": "Unrelated gig/client marketplace email with no relevance to student's profile"
+      },
+      {
+        "email_id": "9",
+        "is_opportunity": false,
+        "opportunity_type": "none",
+        "relevance_score": 0,
+        "profile_fit_label": "irrelevant",
+        "rationale": "Generic newsletter with no relevance to student's profile"
+      },
+      {
+        "email_id": "10",
+        "is_opportunity": false,
+        "opportunity_type": "none",
+        "relevance_score": 0,
+        "profile_fit_label": "irrelevant",
+        "rationale": "Community notification with no relevance to student's profile"
+      },
+      {
+        "email_id": "11",
+        "is_opportunity": true,
+        "opportunity_type": "Admission",
+        "relevance_score": 0.5,
+        "profile_fit_label": "weak_match",
+        "rationale": "Student's degree and interests match admission requirements"
+      },
+      {
+        "email_id": "12",
+        "is_opportunity": true,
+        "opportunity_type": "Exchange Program",
+        "relevance_score": 0.4,
+        "profile_fit_label": "weak_match",
+        "rationale": "Student's interests match exchange program theme"
+      },
+      {
+        "email_id": "13",
+        "is_opportunity": true,
+        "opportunity_type": "Job",
+        "relevance_score": 0.8,
+        "profile_fit_label": "strong_match",
+        "rationale": "Student's skills match job requirements"
+      },
+      {
+        "email_id": "14",
+        "is_opportunity": true,
+        "opportunity_type": "Admission",
+        "relevance_score": 0.6,
+        "profile_fit_label": "weak_match",
+        "rationale": "Student's degree and interests match admission requirements"
+      },
+      {
+        "email_id": "15",
+        "is_opportunity": false,
+        "opportunity_type": "none",
+        "relevance_score": 0,
+        "profile_fit_label": "irrelevant",
+        "rationale": "Unrelated gig/client marketplace email with no relevance to student's profile"
+      }
+    ],
+    "model": "llama-3.1-8b-instant"
+  }
